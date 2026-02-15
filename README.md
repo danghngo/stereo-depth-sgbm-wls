@@ -155,6 +155,17 @@ Applications include:
 - Long-range degradation simulation
 - Extension to multi-view stereo
 
+## 10. How to Run
+
+1. Install dependencies:
+
+pip install -r requirements.txt
+
+2. Run the pipeline:
+
+python main.py
+
+
 ---
 
 
