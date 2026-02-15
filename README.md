@@ -165,6 +165,14 @@ pip install -r requirements.txt
 
 python main.py
 
+## 11. Systems Study
+
+This project will investigate:
+
+- Baseline scaling
+- Disparity window robustness
+- Long-range failure threshold
+
 
 ---
 
