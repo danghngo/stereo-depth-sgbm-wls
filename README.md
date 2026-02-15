@@ -174,6 +174,11 @@ This project will investigate:
 - Long-range failure threshold
 
 
----
+## 12. Disparity Observations
+
+- 48: Undershoots range, loss of near-object resolution
+- 80: Balanced stability and detail
+- 160: Increased noise and mismatches
+
 
 
